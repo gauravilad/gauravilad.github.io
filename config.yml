@@ -1,7 +1,7 @@
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
-baseURL: "https://tejassp919.github.io/"
-title: Tejas Patil
+baseURL: "https://gauravilad.github.io/"
+title: Gauravi Lad
 paginate: 5
 theme: [PaperMod]
 
@@ -27,8 +27,8 @@ languages:
           
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Tejas Patil's space"
-  author: Tejas
+  description: "Gauravi Lad's space"
+  author: Gauravi
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: dark
@@ -43,23 +43,15 @@ params:
   ShowToc: true
 
   homeInfoParams:
-    Title: "Hey, I'm Tejas 👋"  
+    Title: "Hey, I'm Gauravi 👋"  
     Content: >
-      Nice meeting you. I'm a software engineer at LG Ads Solution working in adspace.
-      I used to be an competetive coder during my college days at IIT Roorkee.
       What you are looking at is a hobby piece of mine, feel free to explore and know more about me.
 
   socialIcons:
-    - name: github
-      title: Github Profile
-      url: "https://github.com/tejassp919"
+    - name: behance
+      title: Behance Profile
+      url: "https://www.behance.net/gauravilad"
     - name: linkedin
       title: Linkedin Profile
-      url: "https://linkedin.com/in/tejasp919"
-    - name: codechef
-      title: Codechef Profile
-      url: "https://www.codechef.com/users/tejas_919"
-    - name: codeforces
-      title: Codeforces Profile
-      url: "https://codeforces.com/profile/tejas_919"
+      url: "https://linkedin.com/in/gauravi-lad-007a061b5"
 
